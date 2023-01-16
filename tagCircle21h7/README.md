@@ -1,7 +1,7 @@
 to generate these files:
 
-* follow the directions (here to make tiny PNGs](https://github.com/AprilRobotics/apriltag-generation)
-* follow the directions (here to make PDFs](https://github.com/rgov/apriltag-pdfs)
+* follow the directions [here to make tiny PNGs](https://github.com/AprilRobotics/apriltag-generation)
+* follow the directions [here to make PDFs](https://github.com/rgov/apriltag-pdfs)
 
 I ended up with this command line for the pdf conversion:
 
